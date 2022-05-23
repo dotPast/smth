@@ -1,6 +1,6 @@
 ## uggcf://ceag.fp/65e1SrVmR-Xd
 
-rewardisfalse
+rewardisfalse = number
 
 If number = 1 = виженер
 If number = 3 = инжир
