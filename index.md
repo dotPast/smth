@@ -1,8 +1,5 @@
-## uggcf://ceag.fp/65e1SrVmR-Xd
+## Empty Github Template
 
-rewardisfalse = number
+I will do something here
 
-If number = 1 = виженер
-If number = 3 = инжир
-If number = 13 = цезарь
-If number = 125 = груша
+N_JF
